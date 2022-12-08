@@ -22,7 +22,7 @@
   
 </a>
 
-computer science student @ universita di pisa
+Computer science student @ università di pisa
   
 ## Here to 
   * Make open source free software better and better
@@ -33,7 +33,7 @@ computer science student @ universita di pisa
     * 2D game
     * VR game
       * Worked on: [UltrasClash V](https://www.youtube.com/watch?v=O0GRWYXFsw0) 
-  * bio-informatics
+  * Bio-informatics
     * Not yet explored
 
   
