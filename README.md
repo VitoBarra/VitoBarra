@@ -32,6 +32,7 @@ computer science student @ universita di pisa
   * Videogame development
     * 2D game
     * VR game
+      * Worked on: [UltrasClash V](https://www.youtube.com/watch?v=O0GRWYXFsw0) 
   * bio-informatics
     * Not yet explored
 
